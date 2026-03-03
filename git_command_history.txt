@@ -37,3 +37,17 @@
   759  git remote -v
   760  git push origin master
   761  history
+795  ls
+  796  cd The-Complete-FAANG-Preparation
+  797  ls
+  798  cd ..
+  799  ls
+  800  cd github-for-devops-practice
+  801  git branch
+  802  git branch dev
+  803  git branch
+  804  git switch dev
+  805  nano this_is_from_dev
+  806  add .
+  807  git add .
+  808  history
