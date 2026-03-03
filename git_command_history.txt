@@ -1,0 +1,39 @@
+721  git --version
+  722  git config --get user.name
+  723  git config --get user.email
+  724  git config --list
+  725  github --version
+  726  git --version
+  727  clear
+  728  mkdir practice
+  729  cd practice
+  730  mkdir github-for-devops-practice
+  731  cd github-for-devops-practice
+  732  nano testing.txt
+  733  ls
+  734  gitinit
+  735  git init
+  736  ls -a
+  737  git status
+  738  git add testing.txt
+  739  git status
+  740  git rm --testing.txt
+  741  git rm --cached testing.txt
+  742  git status
+  743  git commit -m"comment testing"
+  744  git add testing.txt
+  745  git commit -m"comment testing"
+  746  rm testing.txt
+  747  ls
+  748  git restore testing.txt
+  749  ls
+  750  history
+753  git remote add origin https:/Your-project_url.git
+  754  git remote -v
+  755  git push origin master
+  756  git remote set-url origin
+  757  git remote -v
+  758  git remote set-url origin https:/?Your-token@github.com/utsavmahajan/github-for-devops-practice.git
+  759  git remote -v
+  760  git push origin master
+  761  history
